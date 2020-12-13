@@ -1,0 +1,16 @@
+D:\source\SimpleNetCommunticationProgs\ParseHtml\bin\Debug\net5.0\ParseHtml.exe
+D:\source\SimpleNetCommunticationProgs\ParseHtml\bin\Debug\net5.0\ParseHtml.deps.json
+D:\source\SimpleNetCommunticationProgs\ParseHtml\bin\Debug\net5.0\ParseHtml.runtimeconfig.json
+D:\source\SimpleNetCommunticationProgs\ParseHtml\bin\Debug\net5.0\ParseHtml.runtimeconfig.dev.json
+D:\source\SimpleNetCommunticationProgs\ParseHtml\bin\Debug\net5.0\ParseHtml.dll
+D:\source\SimpleNetCommunticationProgs\ParseHtml\bin\Debug\net5.0\ref\ParseHtml.dll
+D:\source\SimpleNetCommunticationProgs\ParseHtml\bin\Debug\net5.0\ParseHtml.pdb
+D:\source\SimpleNetCommunticationProgs\ParseHtml\obj\Debug\net5.0\ParseHtml.csprojAssemblyReference.cache
+D:\source\SimpleNetCommunticationProgs\ParseHtml\obj\Debug\net5.0\ParseHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\SimpleNetCommunticationProgs\ParseHtml\obj\Debug\net5.0\ParseHtml.AssemblyInfoInputs.cache
+D:\source\SimpleNetCommunticationProgs\ParseHtml\obj\Debug\net5.0\ParseHtml.AssemblyInfo.cs
+D:\source\SimpleNetCommunticationProgs\ParseHtml\obj\Debug\net5.0\ParseHtml.csproj.CoreCompileInputs.cache
+D:\source\SimpleNetCommunticationProgs\ParseHtml\obj\Debug\net5.0\ParseHtml.dll
+D:\source\SimpleNetCommunticationProgs\ParseHtml\obj\Debug\net5.0\ref\ParseHtml.dll
+D:\source\SimpleNetCommunticationProgs\ParseHtml\obj\Debug\net5.0\ParseHtml.pdb
+D:\source\SimpleNetCommunticationProgs\ParseHtml\obj\Debug\net5.0\ParseHtml.genruntimeconfig.cache
